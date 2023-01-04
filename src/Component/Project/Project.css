@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Diplomata+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+
+.project>img {
+    width: 350px;
+    height: 180px;
+}
+
+.project {
+    margin: 15px;
+    width: 350px;
+    height: 180px;
+    transition: 100ms ease-in-out;
+    -webkit-transition: 100ms;
+    -moz-transition: 100ms;
+    -ms-transition: 100ms;
+    -o-transition: 100ms;
+
+}
+
+.project:hover {
+    cursor: pointer;
+    display: flex;
+    background-color: gold;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+}
+
+.project_container {
+    padding: 15px;
+}
+
+.project_container>h3 {
+    padding-bottom: 20px;
+}
+
+.project_container>p {
+    padding-bottom: 20px;
+    font-weight: 600px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.title1 >p{
+    padding-bottom: 20px;
+    font-weight: 600px;
+    text-align: center;
+}
+.title1 >h3{
+    padding-bottom: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+.title{
+font-family: "Diplomata+SC" !important;
+}
+.content{
+    font-family: "Dancing+Script:wght@700" !important; 
+}

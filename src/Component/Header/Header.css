@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
+.header{
+    display: flex;
+    align-items: center;
+    color: white;
+    background-color: black;
+    top: 0;
+    position: sticky;
+    z-index: 2000;
+    
+}
+.header_left{
+    flex: 0.4;
+}
+.header_left > h1{
+    text-align: center;
+    font-family: "Rye",sans-serif;
+    letter-spacing: 1px;
+    padding: 20px 0;
+}
+.header_left > h1 > span{
+    color: gold;
+}
+.header_right{
+    display: flex;
+    flex: 0.6;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0 0 0 auto;
+    float: right;
+}
+
+.header_right > a > h3{
+     font-size: 20px;
+     cursor:pointer;
+     transition:transform 200ms ease-in-out; ;
+     font-family: "Marcellus",sans-serif;
+     padding: 20px 0px;
+     letter-spacing: 1px;
+}
+.header_right > a > h3:hover {
+    transform: scale(1.2);
+ 
+    background-color: gold;
+    color: black;
+    padding: 5px 15px;
+    border-radius: 1px;
+    letter-spacing: 1px;
+    font-family: "Marcellus",sans-serif;
+    cursor:pointer; 
+}
+.header_button{
+    color: black;
+    background-color: gold;
+    padding: 5px 10px;
+    border-radius: 1px;
+    cursor: pointer;
+    font-family: "Marcellus",sans-serif;
+}

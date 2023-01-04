@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Galindo&display=swap');
+
+.contact>h1{
+    font-family: "Galindo" !important;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    margin: 200px 0 100px ;
+    align-items: center; 
+   
+}
+.contact_container{
+    border:  1px dotted white;
+    width: 600px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    margin-top: 30px;
+  
+}
+.contact_container> h5{
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 30px;
+
+}
+.contact_container> h5 >span{
+    color: goldenrod;
+}
+svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-i4bv87-MuiSvgIcon-root {
+    color: white;
+    font-size: 50px;
+}

@@ -1,0 +1,10 @@
+.topcontainer{
+    background-image: url("C:/new-portfolio/src/Image/geth.jpg");
+    height: 100vh;
+    /* background-position: center; */
+    background-size: cover;
+    background-repeat: no-repeat;
+  position: relative;
+  box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.2);
+  top: 73px;
+}

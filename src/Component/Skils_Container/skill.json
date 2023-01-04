@@ -1,0 +1,32 @@
+[
+    {
+        "skill": "React.JS",
+        "value": "90",
+        "Percentage": "90%"
+    },
+    {
+        "skill": "HTML",
+        "value": "95",
+        "Percentage": "95%"
+    },
+    {
+        "skill": "css",
+        "value": "75",
+        "Percentage": "75%"
+    },
+    {
+        "skill": "Javascript",
+        "value": "65",
+        "Percentage": "65%"
+    },
+    {
+        "skill": "TypeScript",
+        "value": "60",
+        "Percentage": "60%"
+    },
+    {
+        "skill": "Node.JS",
+        "value": "50",
+        "Percentage": "50%"
+    }
+]
