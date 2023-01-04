@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.5f93ff0c.css",
+    "main.css": "/My-Portfolio/static/css/main.949727d9.css",
     "main.js": "/My-Portfolio/static/js/main.db98375c.js",
     "static/js/787.8d4efb73.chunk.js": "/My-Portfolio/static/js/787.8d4efb73.chunk.js",
     "static/media/me2 - Copy.jpg": "/My-Portfolio/static/media/me2 - Copy.5cbee5239991d8c9a6d2.jpg",
@@ -8,18 +8,17 @@
     "static/media/slider.png": "/My-Portfolio/static/media/slider.d4b78afaabaddfdcaa6a.png",
     "static/media/color.jpg": "/My-Portfolio/static/media/color.f7d11f63f17576825b13.jpg",
     "static/media/website.png": "/My-Portfolio/static/media/website.c0c6be4b0a089deec218.png",
-    "static/media/geth1.jpg": "/My-Portfolio/static/media/geth1.d304b24ffeb79aad3555.jpg",
     "static/media/Quiz.png": "/My-Portfolio/static/media/Quiz.c15aa134350c92e67bfb.png",
     "static/media/web.jpg": "/My-Portfolio/static/media/web.89de6f9792c64d02358d.jpg",
     "static/media/application.png": "/My-Portfolio/static/media/application.e56da9a38205f349352c.png",
     "static/media/calculator.png": "/My-Portfolio/static/media/calculator.70a607509c722e6133ab.png",
     "index.html": "/My-Portfolio/index.html",
-    "main.5f93ff0c.css.map": "/My-Portfolio/static/css/main.5f93ff0c.css.map",
+    "main.949727d9.css.map": "/My-Portfolio/static/css/main.949727d9.css.map",
     "main.db98375c.js.map": "/My-Portfolio/static/js/main.db98375c.js.map",
     "787.8d4efb73.chunk.js.map": "/My-Portfolio/static/js/787.8d4efb73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f93ff0c.css",
+    "static/css/main.949727d9.css",
     "static/js/main.db98375c.js"
   ]
 }
