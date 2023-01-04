@@ -2,12 +2,12 @@ import React from 'react'
 import { Element } from "react-scroll"
 import Project from '../Project/Project';
 import "./Project_Container.css"
-import img1 from "C:/new-portfolio/src/Component/Project-container/application.png"
-import img2 from "C:/new-portfolio/src/Component/Project-container/calculator.png"
-import img3 from "C:/new-portfolio/src/Component/Project-container/clock.png"
-import img4 from "C:/new-portfolio/src/Component/Project-container/slider.png"
-import img5 from "C:/new-portfolio/src/Component/Project-container/Quiz.png"
-import img6 from "C:/new-portfolio/src/Component/Project-container/website.png"
+import img1 from "C:/My-React-Project/new-portfolio/src/Component/Project-container/application.png"
+import img2 from "C:/My-React-Project/new-portfolio/src/Component/Project-container/calculator.png"
+import img3 from "C:/My-React-Project/new-portfolio/src/Component/Project-container/clock.png"
+import img4 from "C:/My-React-Project/new-portfolio/src/Component/Project-container/slider.png"
+import img5 from "C:/My-React-Project/new-portfolio/src/Component/Project-container/Quiz.png"
+import img6 from "C:/My-React-Project/new-portfolio/src/Component/Project-container/website.png"
 
 function Projectcontainer() {
 

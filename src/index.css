@@ -149,7 +149,7 @@ nav.navbar.navbar-expand-lg {
 @media (max-width:991px) {
 	/*Tab-potrait mode*/
   .topcontainer {
-    background-image: url(http://localhost:3000/static/media/geth.c7e81f8….jpg);
+    /* background-image: url(http://localhost:3000/static/media/geth.c7e81f8….jpg); */
     height: 100vh;
     background-position: center;
     background-size: cover;
@@ -158,7 +158,7 @@ nav.navbar.navbar-expand-lg {
     box-shadow: inset 0 0 0 2000px rgb(0 0 0 / 20%);
 }
 .exp_info {
-  background: url(http://localhost:3000/static/media/color.f7d11f6….jpg);
+  /* background: url(http://localhost:3000/static/media/color.f7d11f6….jpg); */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -189,7 +189,7 @@ nav.navbar.navbar-expand-lg {
   padding: 0 !important;
 }
 .topcontainer{
-  background-image: url("C:/new-portfolio/src/Image/geth1.jpg") !important;
+  background-image: url("C:/My-React-Project/new-portfolio/src/Image/me2 - Copy.jpg") !important;
   height: 100vh;
   /* background-position: center; */
   background-size: cover;
@@ -207,7 +207,7 @@ box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.2);
   align-items: center !important;
 }
 .menu-toggle{
-  background-image: url("C:/new-portfolio/src/Image/menu.png") !important;
+  background-image: url("C:/My-React-Project/new-portfolio/src/Image/menu.png") !important;
   filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(82deg) brightness(104%) contrast(105%);
 }
 .header_right{
