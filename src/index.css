@@ -42,6 +42,11 @@ ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
   letter-spacing: 1px;
   color: white;
 }
+.contact_icons a svg {
+  color: #fff;
+  font-size: 33px;
+}
+
 .header_left h1 {
   color: white;
   text-align: left;
