@@ -26,6 +26,9 @@ ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
   transform: translateY(14px);
   background-color: gold;
   color: black;
+  background-blend-mode: darken;
+  text-shadow: 0px 0px 2px rgb(12, 12, 12),0px 3px 2px goldenrod,0px 3px 5px #0e0d0d;
+
   padding: 5px 15px;
   border-radius: 1px;
   letter-spacing: 1px;
@@ -40,7 +43,10 @@ ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
   font-family: "Marcellus",sans-serif;
   padding: 20px 0px;
   letter-spacing: 1px;
+ 
   color: white;
+  background-blend-mode: darken;
+  text-shadow: 0px 0px 2px rgb(12, 12, 12),0px 3px 2px rgb(5, 5, 5),0px 3px 5px #080808;
 }
 .contact_icons a svg {
   color: #fff;

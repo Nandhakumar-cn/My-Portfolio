@@ -1,10 +1,10 @@
 import React, { useState } from 'react'
 import "./Project.css"
 
-const Project = ({ img, title, content }) => {
+const Project = ({ img, title, content,link }) => {
     const [show, setshow] = useState(false)
     return (
-
+<a href={link}>
         <div className='project' onMouseEnter={() => setshow(true)} onMouseLeave={() => setshow(false)}>
             {
                 show ? (
@@ -16,7 +16,7 @@ const Project = ({ img, title, content }) => {
                     <img src={img} alt="there is no project"></img>
             }
         </div>
-
+</a>
     )
 }
 

@@ -15,42 +15,48 @@ function Projectcontainer() {
         {
             img: `${img1}`,
             title: "Application",
-            content: "This is My Very First Simple Application Form Project "
+            content: "This is My Very First Simple Application Form Project ",
+            link:"https://nandhakumar-cn.github.io/Simple-Application-Form/"
 
         },
 
         {
             img: `${img2}`,
             title: "Digital Calculator",
-            content: "This Digital Calculator is My Second Simple Project"
+            content: "This Digital Calculator is My Second Simple Project",
+            link:"https://nandhakumar-cn.github.io/Caluclator/"
 
         },
 
         {
             img: `${img3}`,
             title: "Digital Clock",
-            content: "This Digital Clock is My Thirt  Project "
+            content: "This Digital Clock is My Thirt  Project ",
+            link:"https://nandhakumar-cn.github.io/Digital-Clock/"
 
         },
 
         {
             img: `${img4}`,
             title: "Indian Cricket Team Slider",
-            content: "This Slider is My Fourth  Project "
+            content: "This Slider is My Fourth  Project ",
+            link:"https://nandhakumar-cn.github.io/Image-Sliders/"
 
         },
 
         {
             img: `${img5}`,
             title: "Quiz Game",
-            content: "This Quiz Game is My Fivth Project,And It Was Very Intersting Project For Me To Work "
+            content: "This Quiz Game is My Fivth Project,And It Was Very Intersting Project For Me To Work ",
+            link:"https://nandhakumar-cn.github.io/Quiz-Game/"
 
         },
 
         {
             img: `${img6}`,
             title: "Real-Time-Website",
-            content: "This is my First Real-Time Project ,And It was Fully Created By Me And My Co-Partner"
+            content: "This is my First Real-Time Project ,And It was Fully Created By Me And My Co-Partner",
+            link:"https://nandhakumar-cn.github.io/My-RealTime-Website/"
 
         },
     ];
@@ -68,7 +74,8 @@ function Projectcontainer() {
                             <Project key={index}
                                 img={project.img}
                                 title={project.title}
-                                content={project.content} />
+                                content={project.content} 
+                                link={project.link}/>
                         )
                     })
                 }
