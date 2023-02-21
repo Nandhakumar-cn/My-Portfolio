@@ -28,6 +28,9 @@ function Topcontent() {
         <Link name='project' smooth={true} duration={500}>
           <button className='work_button'>Social Media</button>
         </Link>
+        {/* <Link name='project' smooth={true} duration={500}>
+          <button className='btn'> Media</button>
+        </Link> */}
       </div>
 
     </div>
