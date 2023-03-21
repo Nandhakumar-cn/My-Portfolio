@@ -1,12 +1,12 @@
 import React from 'react'
 import { Link } from "react-scroll"
 import "./Header.css"
-
+import { Grid } from '@mui/material';
 
 
 function Header() {
     return (
-        <div>
+        <Grid item xs={12} lg={12} sm={12}>
 
 <nav class="navbar navbar-expand-lg">
   <div class="container">
@@ -103,7 +103,7 @@ function Header() {
             <div class="menu-toggle"></div>
             <span>Menu</span>
         </div> */}
-        </div>
+        </Grid>
     )
 }
 

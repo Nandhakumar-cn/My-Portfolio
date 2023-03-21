@@ -6,13 +6,15 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import ContactMailIcon from '@mui/icons-material/ContactMail';
 import "./Contact.css"
-
+import Wobble from 'react-reveal/Wobble';
         
 const Contact = () => {
   return (
 <Element className='contact' id='contact'>
-<h1>Contact Me</h1>
+<h1>
+    <Wobble> Contact Me</Wobble></h1>
 <div className='contact_container'>
+    <Wobble>
     <h5>
         Email : <span>nandhakumar@codenatives.com</span>
     </h5>
@@ -52,6 +54,7 @@ const Contact = () => {
 
         </a>
     </div>
+    </Wobble>
 </div>
 </Element>
 
